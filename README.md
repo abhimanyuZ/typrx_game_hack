@@ -14,7 +14,7 @@ A small JS script to hack typing speed based games on <b><a href="http://app.typ
 </ol>
 
 **That's it**
-You will see your typing speed like 200wpm or more , slaying all the contestants. xD
+Your typing speed will be like 200 wpm or more, slaying all the contestants. xD
 
 Hope you enjoy it :)
 
