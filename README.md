@@ -5,7 +5,7 @@ A small JS script to hack typing speed based games on <b><a href="http://app.typ
 
 <h3>Instructions</h3>
 <ol>
-<li>Copy the code in **hack.js** file
+<li>Copy the code in <a href="https://github.com/abhimanyuZ/typrx_game_hack/blob/master/hack.js">hack.js</a> file
 <li>Open <a href="http://app.typrx.com/">TyprX</a> in your browser
 <li>Click on either of the buttons "Compete in a race" or "Practice alone" ("Compete in a race" is kinda more fun)
 <li>You'll be taken to another page where countdown will start
